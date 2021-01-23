@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeightChecker", "..\HeightC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicates", "..\RemoveDuplicates\RemoveDuplicates.csproj", "{977938DF-F21D-4B29-9233-9A6C2E278B54}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicates_TwoPointers", "..\RemoveDuplicates_TwoPointers\RemoveDuplicates_TwoPointers.csproj", "{3B890507-3BD7-4C44-AA52-F4D836EFDFE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{977938DF-F21D-4B29-9233-9A6C2E278B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{977938DF-F21D-4B29-9233-9A6C2E278B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{977938DF-F21D-4B29-9233-9A6C2E278B54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B890507-3BD7-4C44-AA52-F4D836EFDFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B890507-3BD7-4C44-AA52-F4D836EFDFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B890507-3BD7-4C44-AA52-F4D836EFDFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B890507-3BD7-4C44-AA52-F4D836EFDFE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
