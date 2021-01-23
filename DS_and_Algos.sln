@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicates_TwoPointer
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveElement", "..\RemoveElement\RemoveElement.csproj", "{5CBC6493-37E9-4A55-8EBC-30BA5C8A1CE8}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "validParentheses", "..\validParentheses\validParentheses.csproj", "{AD116F77-D5E8-4BCE-A9F4-048CD89F2F01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{5CBC6493-37E9-4A55-8EBC-30BA5C8A1CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CBC6493-37E9-4A55-8EBC-30BA5C8A1CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CBC6493-37E9-4A55-8EBC-30BA5C8A1CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD116F77-D5E8-4BCE-A9F4-048CD89F2F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD116F77-D5E8-4BCE-A9F4-048CD89F2F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD116F77-D5E8-4BCE-A9F4-048CD89F2F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD116F77-D5E8-4BCE-A9F4-048CD89F2F01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
